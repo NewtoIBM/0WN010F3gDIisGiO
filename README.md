@@ -1,11 +1,11 @@
 # 0WN010F3gDIisGiO
 
-Goal(s):
+<b>Goal(s):</b>
 
 Predict if a customer is happy or not based on the answers they give to questions asked.
 
 
-Data Description:
+<b>Data Description:</b>
 
 Y = target attribute (Y) with values indicating 0 (unhappy) and 1 (happy) customers
 
