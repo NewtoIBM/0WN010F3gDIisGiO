@@ -22,4 +22,20 @@ X5 = I am satisfied with my courier
 
 X6 = the app makes ordering easy for me
 
+# Table of Contents
 
+1 Introduction.
+
+2 Exploratory Data Analysis .
+
+3 Data Engineering
+
+4 Model.
+
+5 Feature_importances_.
+
+6 Model Overfitting Detection and Testing.
+
+7 Predictions.
+
+8 Conclusion.
